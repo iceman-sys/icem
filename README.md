@@ -89,7 +89,3 @@
 - **Interactive cards** for GitHub stats.
 - **Skill matrix** for easy scanning.
 - **Professional tone** with a personal touch.
-
----
-
-✅ **Note**: Replace placeholder links (e.g., `iceman-sys@example.com`, `iceman-sys.dev`) with your actual contact and portfolio details.
